@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://emameixi.github.io/KTp/sitemap_index.txt.gz
+Sitemap: https://emameixi.github.io/Vwn/sitemap_index.txt.gz
+Sitemap: https://emameixi.github.io/Zcs/sitemap_index.txt.gz
+Sitemap: https://emameixi.github.io/blo/sitemap_index.txt.gz
+Sitemap: https://emameixi.github.io/nLT/sitemap_index.txt.gz
+Sitemap: https://emameixi.github.io/sitemap/sitemap_index.txt.gz
